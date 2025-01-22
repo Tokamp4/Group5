@@ -1,3 +1,5 @@
+import './gallery.scss';
+
 const modal = document.getElementById('image-modal');
 const modalImage = document.getElementById('modal-image');
 const closeModal = document.getElementById('modal-close');
