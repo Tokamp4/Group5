@@ -5,7 +5,7 @@ const port = 3000;
 
 const dbConfig = {
     host: 'localhost',
-    user: 'apiuser',
+    user: 'root',
     password: '123456',
     database: 'apidb'
 }
